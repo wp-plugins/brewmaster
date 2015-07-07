@@ -1,0 +1,131 @@
+/* 
+* Copyright (c) 2015, Nathaniel Eklund 
+
+This program is free software; you can redistribute it and/or 
+modify it under the terms of the GNU General Public License 
+as published by the Free Software Foundation; either version 2 
+of the License, or (at your option) any later version. 
+
+This program is distributed in the hope that it will be useful, 
+but WITHOUT ANY WARRANTY; without even the implied warranty of 
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+GNU General Public License for more details. 
+
+You should have received a copy of the GNU General Public License 
+along with this program; if not, write to the Free Software 
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA. 
+*/
+
+/*** Beer List ***/
+#BM_breweryDisplay {
+  
+}
+
+#BM_ListHeader {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+#BM_beerList {
+  list-style: none;
+}
+
+#BM_beerListItem {
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 15px;
+}
+
+#BM_beerListItemTitle {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#BM_beerListItemStats {
+  
+}
+
+/*** Beer Display ***/
+#BM_beerDisplay {
+  
+}
+
+#BM_beerHeader {
+  margin-bottom: 2px;
+  line-height: 1;
+}
+
+#BM_beerAvailability {
+  
+}
+
+#BM_beerDescription {
+  margin-top: .5cm;
+  margin-bottom: .5cm;
+}
+
+#BM_beerStatsDisplay {
+  margin-bottom: .5cm;
+}
+
+#BM_beerABV {
+  float: left;
+  margin-right: 1cm;
+}
+
+#BM_beerIBUs {
+  
+}
+
+#BM_beerRecipeLink {
+  
+}
+
+#BM_beerNotes {
+  margin-top: .5cm;
+  margin-bottom: .5cm;
+}
+
+#BM_beerBatchListHeader {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1;
+}
+
+#BM_batchListDisplay {
+  list-style: none;
+}
+
+#BM_batchListItem {
+  margin-top: 0;
+  margin-bottom: 10px;
+  margin-left: 15px;
+}
+
+#BM_batchListItemTitle {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#BM_batchListItemAvailable {
+  
+}
+
+#BM_batchListItemStartDate {
+  
+}
+
+#BM_batchListItemStats {
+  
+}
+
+/*** Batch Display ***/
+#BM_batchBatchHeader {
+  margin-bottom: 2px;
+  line-height: 1;
+}
+
+#BM_batchAvailability {
+  
+}
